@@ -1,0 +1,6 @@
+Risk Assessment:Identifies and evalueates the risk present in IT initiatives and/or systems.
+Risk Assessment:This function includes identifying the sources or risk and may include offering adive on controls that can reduce risk.
+Risk Management:implements or oversees use of controls to reduce risk.
+Risk Management:this function is often paried with risk assessment.
+Systems Testing:Evaluates patches used to close software vulnerabilities and aceptance testing of newsystems to assure compliance with policy across the organization.
+Systems Testing:This function is usually part of the incident response and/or risk management functions.

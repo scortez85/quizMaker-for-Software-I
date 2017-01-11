@@ -1,0 +1,63 @@
+security program:the entire set of personnel, plans, policies, and initiatives related to information security.
+information security program:the structure and organization of the effort that contains risks to the information assets of the organization.
+security education, training and awareness (SETA):program that is the responsibility of the CISO and is designed to reduce teh incidence of accidental security breaches by members of the organization
+security newsletter: the most cost-efective method of dissemnating security information and news to employees.
+security poster:medium cost-efective method to keep security on peoples mind
+trinket program:the most expensive program for security awareness.
+framework:outline of a more thorough blueprint.
+blueprint:sets out the model to be followed in the creation of thet design, selection, and initial and ongoing implementation of all subsequent security controls.
+security models:generic blueprint offered by a service organization.
+Least-privilege:principle by which members of the organization can access the minimun amount of information for the minimum amojnt of time necessary to perform their required duties.
+need-to-know:principle that limits a user's access to the specific information required to perform the current assigned task.
+separation of duties:principle requires that significant task be split up in such a way that more than one individual is responsible for their completion.
+Mandatory access controls (MACs):structured and coordinated within a data classification scheme that rates each collection of information as well as each user.
+Data Classification Model:complex categorization system for coporate and military organizations.
+compartmentalization:restriction of information to the fewest people as possbile.
+security clearance:each user of an information asset is assigned an authorization level that indentifies the leel of information classification he or she can access.
+dumpster diving:retrieval of information from refuse or recycling bins.
+Lattice-based access control:assigns users a matrix of authorizations for particular areas of access.
+Nondescretionary controls:determined by central authority in the organization and can be based on roles.
+Role-based controls:tied to the role that a particular user performs in an organization.
+task-based control:tied to a particular assignment or responsibility.
+Discretionary access controls (DACs):implimented at the discretion or option of the data user; allows users to control and possibly provide access to information or resources at their disposal.
+trusted coputing base (TCB):combination of hardware, firmware, and sofware responsible for enforcing the security policy.
+Trusted computer system evaluation criteria (TCSEC):older DoD standart that defines the criteria for assessing the access controls in a computer system.
+reference Monitor:piece of the system that manages access controls.
+storage channels:communicate by modifying a stored object.
+Timing Channels:transmit information by managing the relative timing of events.
+Information technology system evaluation criteris (ITSEC):internation set of ccriteria for evaluation computer systems, similar to TCSEC.
+Common Criteria for Information Technology Security Evaluation (CC):internation standard (ISO/IEC) for computer security certification.
+Bell-LaPadula (BLP) confidentiality model:state machine reference model.
+Biba Integrity model:similar to BLP, based on premise that higher levels of integrity are more worthy of trust than lower ones.
+Clark-Wilson Integrity Model:built upon principles of change control rather than integrity levels, was designed for the commerical enviroment.
+InfoSec:understand the threats and attack that introduce threat, often taken a leadership role in addressing risk.
+IT:group to help build secure systems and ensure their safe operation.
+Management and Users:help for early detection and responsee process, also they ensure that sufficient resources are alllcated for the InfoSec and IT.
+Risk Identification:managers identify the organizations information assets, classify and categorize them nto useful groups.
+Media Access Control (MAC) address: TCP/IP standard, unique number on all network interface hardware devices, useful when tracking.
+Internet Protocol (IP) address:useful for network devices used along with Dynamic Host Configeratio Protocol (DHCP).
+Programs:Activities performed within the organization to improve security.
+Residual risk:risk that remains even after existing control has be applied.
+Competitive disadvantage:the state of falling behind the competition, a critical factor emerges.
+defense risk control strategy: attempts to pervent the exploitation of the vulnerability.
+avoidance:countering threats, removing vulnerabilities in assets, limiting access to assets, and adding protective safeguards.
+transferal risk control strategy:Attempts to shift the risk to other assets, other processes, or other organizations.
+mitigation risk control strategy:control approach that attempts to reduce, by means of planning and preparation, the damage caused by a realized incident or disaster.
+acceptance risk control strategy:the decision to do nothing to protect an information assset from risk, and to accept the outcome from any resulting exploitation.
+termination risk control strategy:based on organizations need or choice not to protect an asset.
+Risk appetite (risk tolerance):quantity and nature of the risk that organizations are willing to accept as they evaluate the trade-offs between perfect security and unlimited accessibility.
+residual risk:the amount of risk that remains after the organization has implemented policy, education and training, and technical controls and safeguards.
+cost avoidance:the money saved by using the defense strategy via the implementation of a control, thus elimination the financial ramifications of an incident.
+cost:amount spent on controls or safeguards.
+benefit:the value to the organization of using controls to prevent losses.
+asset valuation:the process of assigning financial value or worth to each information asset.
+intrinsic value:the essential worth.
+acquired value:the more appropiate worth value.
+single loss expectancy (SLE):calculaated value associated with the most likely loss from a single occurance of a specific attack.
+annualized rate of occurrence (ARO): indicates how often you expect a specific type of attack to occur.
+annualized loss expectancy (ALE):overall loss potential per risk.
+organized feasibility:examines how well the proposed infosec alternatives will contriute to the efficiency, effectiveness, and overall operation of an organization.
+behavioral fesibility:important aspect of systems development is obtaining user by-in on projects.
+technical fesibility: determines whether the organization already has or can acquire the tecnology necessary to implement and support them.
+political feasibility:considers what can and cannot occur based on the consensus and relationships among the communities of interest.
+

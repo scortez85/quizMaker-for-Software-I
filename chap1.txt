@@ -1,0 +1,21 @@
+Values:Those things that we hold dear or precious or the foundation of a shared operating agreement among members of a team.
+Principles:A fundamental truth or belief that serves as the foundation for how we approach product development.
+Practices:The way in which a principle is supported or realized.
+Scrum Framework:A collection of values, principles, practices, and rules that form the foundation of scrum-based development
+Approaches:A specific way to realize a practice or activity.
+Scrum:A lightweight agile framework for managing complex product and service development.
+Agile:A specific set of values and principles, as expressed in the Agile Manifesto.
+Product Backlog:A prioritized inventory of yet-to-be-worked-on product backlog items.
+Iterations:A self-contained development cycle focused on performing all of the work necessary to produce a valuable outcome.
+Cross-Functional Team:A team composed of members with all the functional skills and specialties necessary to complete work that requires more than a single discipline. 
+All-At-Once Product Development:Doing all types of work (for example, analysis, design, coding, integrating, and testing) opportunistically within a single iteration
+Flow:The smooth, steady movement of work through the development process to ensure that good economic value is delivered.
+Waterfall-Style:A style of development that attempts to plan for and anticipate up front all of the features a user might want in the end product.
+Releases:A combination of features that when packaged together make for a coherent deliverable to customers or users.
+Waste:Any activity that consumes resources and produces no added value to the product or service that a customer receives. 
+Cynefin:A sense-making framework that helps us understand the situation in which we have to operate and decide on a situation-appropriate approach.
+Emergence:Individual, localized behavior that aggregates into global behavior that is disconnected from its origins.
+Inspect and Adapt:A common phase in Scrum that refers to the inspection and adaptation principles of empirical process control.
+Kanban:An agile approach overlaid on an existing process that advocates visualizing how to work flows through a system.
+Product Development Efforts:The full scope of work performed to create or enhance a product or service.
+Rules:A common practice or generally reliable method of action in a particular situation.
