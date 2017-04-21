@@ -1,0 +1,17 @@
+Encapsulation:the provision of an interface for a piece of software or hardware to allow or simplify access for the user
+Information Hiding:the process of hiding the details of an object or function
+Polymorphism and dynamic binding:It means that the code to be executed for a specific procedure call is not known until run-time
+Cohesion and coupling:s the degree of interdependence between software modules; a measure of how closely connected two routines or modules are; the strength of the relationships between modules
+Functional and nonfunctional requirements:are those which are related to the technical functionality of the system, criteria that can be used to judge the operation of a system in particular conditions, rather than specific behaviors
+Verification and validation:is the process of checking that a software system meets specifications and that it fulfills its intended purpose. It may also be referred to as software quality control
+Work breakdown structure:a key project deliverable that organizes the team's work into manageable sections.
+Technical, economic, and organizational feasibility: is a measure of how well a proposed system solves the problems, and takes advantage of the opportunities identified during scope 
+Organizational change management: is a framework for managing the effect of new business processes
+Software development life cycle:Term used in systems engineering, information systems and software engineering to describe a process for planning, creating, testing, and deploying an information system.
+ Use case:In software and systems engineering, a use case is a list of actions or event steps, typically defining the interactions between a role
+Timeboxing: allocates a fixed time period, called a time box, to each planned activity.
+Joint Application Development:is a development methodology system originally used for designing a computer-based system, but can be applied to any development process
+Package:a namespace that organizes a set of related classes and interfaces. 
+Pattern :can then be used to create a Matcher object that can match arbitrary character sequences against the regular expression
+Factoring :he process of restructuring existing computer code—changing the factoring—without changing its external behavior.
+Difference between a class and an object:An object is a member or an "instance" of a class. An object has a state in which all of its properties have values that you either explicitly define or that are defined by default settings. This subtle conceptual difference between classes and objects shows why there is a tendency to want to use them interchangeably

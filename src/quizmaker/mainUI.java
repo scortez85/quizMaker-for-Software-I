@@ -42,8 +42,8 @@ public class mainUI extends javax.swing.JFrame {
         initComponents();
 
         //generateQuiz("defQuiz");//for default quiz
-        generateQuiz("chap1.txt");
-        quizFile = "chap1.txt";
+        generateQuiz("final.txt");
+        quizFile = "final.txt";
         //resetButton.setVisible(false);
         hideChoices();
         

@@ -1,0 +1,8 @@
+Work breakdown structure:a key project deliverable that organizes the team's work into manageable sections.
+Organizational change management: is a framework for managing the effect of new business processes
+Encapsulation:the provision of an interface for a piece of software or hardware to allow or simplify access for the user
+Cohesion and coupling:s the degree of interdependence between software modules; a measure of how closely connected two routines or modules are; the strength of the relationships between modules
+ Use case:In software and systems engineering, a use case is a list of actions or event steps, typically defining the interactions between a role
+Technical, economic, and organizational feasibility: is a measure of how well a proposed system solves the problems, and takes advantage of the opportunities identified during scope 
+Functional and nonfunctional requirements:are those which are related to the technical functionality of the system, criteria that can be used to judge the operation of a system in particular conditions, rather than specific behaviors
+Verification and validation:is the process of checking that a software system meets specifications and that it fulfills its intended purpose. It may also be referred to as software quality control
